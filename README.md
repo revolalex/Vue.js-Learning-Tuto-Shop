@@ -1,3 +1,4 @@
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2FVue.js-Learning-Tuto-Shop" alt="Hits">.
 # Vue.js-Learning-Tuto-Shop
 
 <img width="300" src="https://user-images.githubusercontent.com/56839789/79344382-0ce95f00-7f30-11ea-9ed2-b81fa9315821.gif">
